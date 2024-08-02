@@ -1,0 +1,10 @@
+#todo-container {
+  box-shadow: 0px 0px 7px rgb(159, 156, 156);
+}
+.listitems {
+  box-shadow: -0px -0px 5px #d0d0d0, 0px 0px 5px #f0f0f0;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
